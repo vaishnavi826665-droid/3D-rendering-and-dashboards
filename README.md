@@ -63,4 +63,4 @@ The motherboard, laptop render, construction site model and walkie talkie models
 
 ---
 
-*Part of a broader portfolio: [QuantumEdge AI Platform](https://github.com/yourusername/quantum-edge) · [Dietary Habits Dashboard](https://github.com/yourusername/dietary-dashboard)*
+
